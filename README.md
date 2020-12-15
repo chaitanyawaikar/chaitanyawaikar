@@ -48,7 +48,7 @@ I am an Inquisitive person who likes to take up challenges, while playing a vita
   </span>
 </p>
 
-## Specialities
+## Interests
 <p>
 	<span>
     <img src="https://img.shields.io/badge/-Concurrency-black?&color=red&style=for-the-badge" alt="">
