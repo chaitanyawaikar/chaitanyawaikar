@@ -7,6 +7,7 @@ I am an Inquisitive person who likes to take up challenges, while playing a vita
 <p>
     <a href="https://www.linkedin.com/in/chaitanyawaikar/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0077B5&color=black" alt="LinkedIn"></a>
     <a href="https://stackoverflow.com/users/7803797/chaitanya-waikar"><img src="https://img.shields.io/badge/-StackOverflow-black?style=for-the-badge&logo=stackoverflow&logoColor=FE7A16" alt="StackOverflow"></a>
+    <a href="https://medium.com/@chaitanyawaikar1993"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=FE7A16" alt="Medium"></a>	
 </p>
 
 ## Skill-Sets
