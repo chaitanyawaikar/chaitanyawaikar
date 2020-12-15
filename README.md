@@ -41,16 +41,17 @@ I am an Inquisitive person who likes to take up challenges, while playing a vita
 <p>
   <span>
     <img src="https://img.shields.io/badge/AWS-Cognito-green" alt="AWS-Cognito">
-    <img src="https://img.shields.io/badge/AWS-S3-green" alt="AWS-S3">		
-    <img src="https://img.shields.io/badge/AWS-Lambda-green" alt="AWS-Lambda">		
-    <img src="https://img.shields.io/badge/AWS-Api%20Gateway-green" alt="API-Gateway">		
-    <img src="https://img.shields.io/badge/AWS-Dynamodb-green" alt="AWS-Dynamodb">			  
+    <img src="https://img.shields.io/badge/-AWS%20Cognito-white?color=blue&style=for-the-badge" alt="">
+    <img src="https://img.shields.io/badge/-AWS%20S3-white?color=blue&style=for-the-badge" alt="">
+    <img src="https://img.shields.io/badge/-AWS%20Lambda-white?color=blue&style=for-the-badge" alt="">
+    <img src="https://img.shields.io/badge/-API%20Gateway-white?color=blue&style=for-the-badge" alt="">
+    <img src="https://img.shields.io/badge/-DynamoDB-white?color=blue&style=for-the-badge" alt="">		  
   </span>
 </p>
 
 ## Interests
 <p>
-	<span>
+    <span>
     <img src="https://img.shields.io/badge/-Concurrency-black?&color=red&style=for-the-badge" alt="">
     <img src="https://img.shields.io/badge/-Functional--Programming-white?color=red&style=for-the-badge" alt="">
     <img src="https://img.shields.io/badge/-JVM-white?color=red&style=for-the-badge" alt="">
