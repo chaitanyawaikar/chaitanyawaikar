@@ -37,6 +37,14 @@ I am an Inquisitive person who likes to take up challenges, while playing a vita
   </span>
 </p>
 
+### AWS
+<p>
+	<span>
+    <img src="https://img.shields.io/badge/AWS-Cognito-green" alt="AWS-Cognito">
+    <img src="https://img.shields.io/badge/AWS-S3-green" alt="AWS-S3">		
+  </span>
+</p>
+
 ## Specialities
 <p>
 	<span>
