@@ -46,3 +46,8 @@ I am an Inquisitive person who likes to take up challenges, while playing a vita
     <img src="https://img.shields.io/badge/-Microservices-white?color=black&style=for-the-badge" alt="Microservices">
   </span>
 </p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/chaitanyawaikar/count.svg" />
+</p>
