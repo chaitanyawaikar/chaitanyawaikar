@@ -40,7 +40,6 @@ I am an Inquisitive person who likes to take up challenges, while playing a vita
 ### AWS
 <p>
   <span>
-    <img src="https://img.shields.io/badge/AWS-Cognito-green" alt="AWS-Cognito">
     <img src="https://img.shields.io/badge/-AWS%20Cognito-white?color=blue&style=for-the-badge" alt="">
     <img src="https://img.shields.io/badge/-AWS%20S3-white?color=blue&style=for-the-badge" alt="">
     <img src="https://img.shields.io/badge/-AWS%20Lambda-white?color=blue&style=for-the-badge" alt="">
