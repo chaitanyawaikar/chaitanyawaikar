@@ -51,11 +51,11 @@ I am an Inquisitive person who likes to take up challenges, while playing a vita
 ## Specialities
 <p>
 	<span>
-    <img src="https://img.shields.io/badge/-Concurrency-white?&color=black&style=for-the-badge" alt="Concurrency">
-    <img src="https://img.shields.io/badge/-Functional--Programming-white?color=black&style=for-the-badge" alt="FunctionalProgramming">
-    <img src="https://img.shields.io/badge/-JVM-white?color=black&style=for-the-badge" alt="JVM">
-    <img src="https://img.shields.io/badge/-REST-white?color=black&style=for-the-badge" alt="REST">
-    <img src="https://img.shields.io/badge/-Microservices-white?color=black&style=for-the-badge" alt="Microservices">
+    <img src="https://img.shields.io/badge/-Concurrency-black?&color=red&style=for-the-badge" alt="">
+    <img src="https://img.shields.io/badge/-Functional--Programming-white?color=red&style=for-the-badge" alt="">
+    <img src="https://img.shields.io/badge/-JVM-white?color=red&style=for-the-badge" alt="">
+    <img src="https://img.shields.io/badge/-REST-white?color=red&style=for-the-badge" alt="">
+    <img src="https://img.shields.io/badge/-Microservices-white?color=red&style=for-the-badge" alt="">
   </span>
 </p>
 
