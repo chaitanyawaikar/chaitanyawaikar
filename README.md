@@ -1,5 +1,5 @@
 ---
-# Hello, I'm Chaitanya Waikar
+# Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Chaitanya Waikar
 ## Introduction
 <p>
 I am an Inquisitive person who likes to take up challenges, while playing a vital role in successful execution of organisational goals. Having an experience of 5+ years in the development of enterprise applications using SBT stack (Scala, Akka, Play web framework) and Java technologies.
