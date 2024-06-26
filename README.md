@@ -2,7 +2,7 @@
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Chaitanya Waikar
 ## Introduction
 <p>
-I am an Inquisitive person who likes to take up challenges, while playing a vital role in successful execution of organisational goals. Having an experience of 5+ years in the development of enterprise applications using SBT stack (Scala, Akka, Play web framework) and Java technologies.
+I am an Inquisitive person who likes to take up challenges, while playing a vital role in successful execution of organisational goals. Having an experience of 8+ years in the development of enterprise applications using SBT stack (Scala, Akka, Play web framework) and Java technologies.
 </p>
 <p>
     <a href="https://www.linkedin.com/in/chaitanyawaikar/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0077B5&color=black" alt="LinkedIn"></a>
